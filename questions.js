@@ -147,9 +147,9 @@ questions = [
         "question": "Sekcje poświęcone jednemu filmowi lub grze powinny być wchłonięte przez Filmawkę lub Sekcję Graczy, chyba że zbudowany wokół kult jest dostatecznie silny.",
         "effect": {
             "econ": 0,
-            "dipl": -5,
+            "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": 10
         }
     },
     {
