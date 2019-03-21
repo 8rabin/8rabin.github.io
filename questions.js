@@ -183,9 +183,9 @@ questions = [
         "question": "Szkalowanie papieża na dobre zniknęło ze sporej części trollnetu, ale teksty z Janem Pawłem II stały się nieodłącznym elementem wewnętrznego języka.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
+            "dipl": -10,
             "govt": 0,
-            "scty": 10
+            "scty": 0
         }
     },
     {
