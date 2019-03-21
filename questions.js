@@ -254,7 +254,7 @@ questions = [
     {
         "question": "Promowanie własnej grupy na jebawce i odłączanie się od niej (na przykład poprzez zmianę nazwy) jest żałosne.",
         "effect": {
-            "econ": 0,
+            "econ": -5,
             "dipl": -5,
             "govt": 0,
             "scty": 0
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Nowym członkom stalo powinno się przypominać o jebawkowych klasykach.",
+        "question": "Nowym członkom stale powinno się przypominać o jebawkowych klasykach.",
         "effect": {
             "econ": 0,
             "dipl": -5,
