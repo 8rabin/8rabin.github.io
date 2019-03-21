@@ -234,7 +234,7 @@ questions = [
         }
     },
     {
-        "question": "Sekcje poświęcone własnej osobie to przejaw nędznego pragnienia atencji.",
+        "question": "Sekcje poświęcone własnej osobie to wyraz nędznego pożądania atencji.",
         "effect": {
             "econ": 0,
             "dipl": -1,
@@ -252,7 +252,7 @@ questions = [
         }
     },
     {
-        "question": "Wypromowanie własnej grupy na jebawce i odłączenie się od niej (na przykład poprzez zmianę nazwy) jest żałosnym czynem.",
+        "question": "Promowanie własnej grupy na jebawce i odłączanie się od niej (na przykład poprzez zmianę nazwy) jest żałosne.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Nowym członkom powinno się przypominać o jebawkowych klasykach.",
+        "question": "Nowym członkom stalo powinno się przypominać o jebawkowych klasykach.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "Regulamin grupy jest jak konstytucja.",
+        "question": "Regulamin jest dla grupy jak konstytucja.",
         "effect": {
             "econ": -5,
             "dipl": 0,
