@@ -234,12 +234,12 @@ questions = [
         }
     },
     {
-        "question": "Sekcje poświęcone własnej osobie to wyraz nędznego pożądania atencji.",
+        "question": "Nie powinno się kasować bezbeckich i mało jakościowych postów - rynek je weryfikuje niską liczbą reakcji i zasięgu",
         "effect": {
             "econ": 0,
-            "dipl": -1,
-            "govt": 0,
-            "scty": -10
+            "dipl": 5,
+            "govt": 10,
+            "scty": 0
         }
     },
     {
@@ -252,7 +252,7 @@ questions = [
         }
     },
     {
-        "question": "Promowanie własnej grupy na jebawce i odłączanie się od niej (na przykład poprzez zmianę nazwy) jest żałosne.",
+        "question": "Promowanie własnej grupy na jebawce i odłączanie się od niej (na przykład poprzez zmianę nazwy) jest godne potępienia.",
         "effect": {
             "econ": -5,
             "dipl": -5,
@@ -306,11 +306,11 @@ questions = [
         }
     },
     {
-        "question": "Pisanie o jebawce w gazetach jest równie żenujące co wybory na Młodzieżowe Słowo Roku.",
+        "question": "Grupki są prywatnymi burdelami adminów, więc mogą robić to co chcą",
         "effect": {
             "econ": 0,
-            "dipl": -10,
-            "govt": 0,
+            "dipl": 0,
+            "govt": -15,
             "scty": 0
         }
     },
