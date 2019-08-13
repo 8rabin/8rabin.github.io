@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Prawdziwa sekcja zaczyna się od 5000 członków. Zaznacz słabszą odpowiedź, jeśli od 2000.",
+        "question": "Prawdziwa sekcja zaczyna się od określonej liczby członków.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -9,16 +9,16 @@ questions = [
         }
     },
     {
-        "question": "Kolekcjonujesz rangi na sekcjach.",
+        "question": "Jebawka to coś więcej niż tylko grupy na Facebooku.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
+            "econ": -10,
+            "dipl": -5,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Nie podoba ci się obecność znajomych (spoza trollnetu) na sekcjach.",
+        "question": "Nie podoba mi się obecność znajomych z realnego życia na sekcjach.",
         "effect": {
             "econ": -5,
             "dipl": -10,
@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Większość ludzi zapomniała o czterech aksjomatach.",
+        "question": "Społeczność okołojebawkowa już nie jest tym co kiedyś.",
         "effect": {
             "econ": -2,
             "dipl": -10,
@@ -45,7 +45,7 @@ questions = [
         }
     },
     {
-        "question": "Sekcje nie powinny zbyt mocno przyciągać nowokolegów, ponieważ ich przewaga odrywa grupę od trollnetu",
+        "question": "",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -72,7 +72,7 @@ questions = [
         }
     },
     {
-        "question": "Bany prewencyjne na matce są bez sensu.",
+        "question": "",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "Akceptowanie kont starszych niż x powinno zostać zniesione.",
+        "question": "",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Ludzie powinni mieć zagwarantowane prawo do wolnego wyrażania swoich myśli, zakodowane w zasadach Internetu.",
+        "question": "Ludzie powinni mieć zagwarantowane prawo do wolnego wyrażania swoich myśli, zakodowane w charakterze Internetu.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "Bardzo rzadko banujesz członków, częściej ich wyrzucasz lub wyciszasz.",
+        "question": "Bardzo rzadko banuję członków, raczej daję im kick albo mute.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "Lepiej jest przekazywać małe sekcje w opiekę większych adminów, ponieważ lepiej ogarniają grupki i dysponują znacznie większymi zasięgami do reklamowania.",
+        "question": "Lepiej jest przekazywać małe sekcje w opiekę multiadminów, którzy lepiej ogarniają grupy i mają gdzie je reklamować.",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -144,16 +144,16 @@ questions = [
         }
     },
     {
-        "question": "Sekcje poświęcone jednemu filmowi lub grze powinny być wchłonięte przez Filmawkę lub Sekcję Graczy, chyba że zbudowany wokół kult jest dostatecznie silny.",
+        "question": "Po co zakładać sekcje poświęcone konkretnemu uniwersum, jeśli można równie dobrze wstawiać o nich posty na Filmawkę czy Sekcję Graczy?",
         "effect": {
             "econ": 0,
-            "dipl": 0,
+            "dipl": -5,
             "govt": 0,
-            "scty": 10
+            "scty": 0
         }
     },
     {
-        "question": "Administratorowie większych sekcji JBwA powinni wspólnym wysiłkiem ustanowić licencję na tworzenie sekcji, sankcjonując amatorów tworzących grupy bez zezwolenia.",
+        "question": "Powinno się ustanowić licencję na tworzenie sekcji, ponieważ ludzie nie potrafią wymyślać oryginalnych grup",
         "effect": {
             "econ": -10,
             "dipl": -5,
@@ -162,16 +162,16 @@ questions = [
         }
     },
     {
-        "question": "Sekcje powinny zaczynać się od 'Jak będzie w...'",
+        "question": "Każdy w mniejszym lub większym stopniu traktuje grupy jak 'poważny biznes', a samo określenie spotyka się z nadużyciem.",
         "effect": {
-            "econ": 0,
-            "dipl": -5,
+            "econ": -5,
+            "dipl": 0,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Multibany to rak.",
+        "question": "Multibany to rak, jeśli przyznaje się je komuś kto podpadł tylko na jednej grupie",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -180,12 +180,12 @@ questions = [
         }
     },
     {
-        "question": "Szkalowanie papieża na dobre zniknęło ze sporej części trollnetu, ale teksty z Janem Pawłem II stały się nieodłącznym elementem wewnętrznego języka.",
+        "question": "Szkalowanie papieża na dobre zniknęło z, ale teksty z Janem Pawłem II stały się nieodłącznym elementem wewnętrznego języka.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": 10
         }
     },
     {
@@ -207,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "Wynoszenie contentu z sekcji poza trollnet to rak.",
+        "question": "Nie powinno się wynosić contentu z grup.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -234,12 +234,12 @@ questions = [
         }
     },
     {
-        "question": "Nie powinno się kasować bezbeckich i mało jakościowych postów - rynek je weryfikuje niską liczbą reakcji i zasięgu",
+        "question": "",
         "effect": {
             "econ": 0,
-            "dipl": 5,
-            "govt": 10,
-            "scty": 0
+            "dipl": -1,
+            "govt": 0,
+            "scty": -10
         }
     },
     {
@@ -252,19 +252,19 @@ questions = [
         }
     },
     {
-        "question": "Promowanie własnej grupy na jebawce i odłączanie się od niej (na przykład poprzez zmianę nazwy) jest godne potępienia.",
+        "question": "",
         "effect": {
-            "econ": -5,
+            "econ": 0,
             "dipl": -5,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "e-papierosy",
+        "question": "",
         "effect": {
             "econ": 0,
-            "dipl": -1,
+            "dipl": 0,
             "govt": 0,
             "scty": 0
         }
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Nowym członkom stale powinno się przypominać o jebawkowych klasykach.",
+        "question": "Nowym członkom powinno się przypominać o klasykach.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "Regulamin jest dla grupy jak konstytucja.",
+        "question": "Regulamin grupy jest podstawą porządku jak konstytucja.",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -306,16 +306,16 @@ questions = [
         }
     },
     {
-        "question": "Grupki są prywatnymi burdelami adminów, więc mogą robić to co chcą",
+        "question": "Grupy są własnością adminów i mogą na nich robić co im się żywnie podoba.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -15,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Sekcje o zbliżonej tematyce powinny zostać ze sobą połączone (np. taktyczna, pancerna etc. w jedną wojskową).",
+        "question": "Sekcje o pokrewnej tematyce powinny zostać ze sobą połączone (np. sekcja pancerna i strategiczna w jedną wojskową).",
         "effect": {
             "econ": 0,
             "dipl": 0,
