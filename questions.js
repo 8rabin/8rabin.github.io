@@ -18,9 +18,9 @@ questions = [
         }
     },
     {
-        "question": "Nie podoba mi się obecność znajomych z realnego życia na sekcjach.",
+        "question": "Nie podoba mi się obecność znajomych z pozainternetowego życia na sekcjach.",
         "effect": {
-            "econ": -5,
+            "econ": -7,
             "dipl": -10,
             "govt": 5,
             "scty": 0
@@ -45,10 +45,10 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Rajdowanie grup to dziecinada.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
+            "econ": 10,
+            "dipl": 0,
             "govt": 0,
             "scty": 0
         }
@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "Rozłamy sekcji to nonsens.",
+        "question": "Rozłamy sekcji, tworzenie drugiej takiej samej grupy niezależnie od administracji to nonsens.",
         "effect": {
             "econ": 5,
             "dipl": -5,
@@ -72,20 +72,20 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "Stopień elitarności grup dotyczy jedynie sekcji niezwiązanych w żadnym stopniu z nauką. Grupy takie jak Ciekawostkawka, nie muszą się martwić o różnice między nowymi a starymi członkami, ponieważ liczy się jedynie kryterium ekspertyzy.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": 10,
+            "dipl": 10,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "",
+        "question": "JBwA główna i Memawka to symbole starego porządku i nie powinniśmy się nimi przejmować w dzisiejszych czasach.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": 5,
+            "dipl": 10,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -95,20 +95,20 @@ questions = [
             "econ": 10,
             "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": 5
         }
     },
     {
-        "question": "Ludzie powinni mieć zagwarantowane prawo do wolnego wyrażania swoich myśli, zakodowane w charakterze Internetu.",
+        "question": "Ludzie powinni móc wolno wyrażać co im się nie podoba, w ramach podstawowych praw Internetu.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 20,
+            "govt": 15,
             "scty": 0
         }
     },
     {
-        "question": "Bardzo rzadko banuję członków, raczej daję im kick albo mute.",
+        "question": "Nieprzyjemnie mi się banuje ludzi, już wolę dać kicka albo zmutować.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -135,9 +135,9 @@ questions = [
         }
     },
     {
-        "question": "Lepiej jest przekazywać małe sekcje w opiekę multiadminów, którzy lepiej ogarniają grupy i mają gdzie je reklamować.",
+        "question": "Lepiej jest przekazywać małe sekcje w opiekę multiadminów, którzy lepiej ogarniają Facebooka i mają gdzie reklamować grupy.",
         "effect": {
-            "econ": -5,
+            "econ": 0,
             "dipl": 0,
             "govt": 0,
             "scty": 10
@@ -147,24 +147,24 @@ questions = [
         "question": "Po co zakładać sekcje poświęcone konkretnemu uniwersum, jeśli można równie dobrze wstawiać o nich posty na Filmawkę czy Sekcję Graczy?",
         "effect": {
             "econ": 0,
-            "dipl": -5,
+            "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": 10
         }
     },
     {
-        "question": "Powinno się ustanowić licencję na tworzenie sekcji, ponieważ ludzie nie potrafią wymyślać oryginalnych grup",
+        "question": "Powinno się ustanowić licencję na tworzenie sekcji, ludzie nie potrafią wymyślać oryginalnych grup",
         "effect": {
             "econ": -10,
-            "dipl": -5,
-            "govt": -10,
+            "dipl": 0,
+            "govt": 0,
             "scty": 15
         }
     },
     {
         "question": "Każdy w mniejszym lub większym stopniu traktuje grupy jak 'poważny biznes', a samo określenie spotyka się z nadużyciem.",
         "effect": {
-            "econ": -5,
+            "econ": -10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -180,16 +180,16 @@ questions = [
         }
     },
     {
-        "question": "Szkalowanie papieża na dobre zniknęło z, ale teksty z Janem Pawłem II stały się nieodłącznym elementem wewnętrznego języka.",
+        "question": "Szkalowanie papieża już dawno przeminęło, ale teksty z Janem Pawłem II stały się nieodłącznym elementem wewnętrznego języka. Dlatego należy banować ignorantów, którzy piszą: '>szkalowanie papieża w 2kxx', 'to nie jest śmieszne'",
         "effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "dipl": -10,
+            "govt": -7,
+            "scty": 0
         }
     },
     {
-        "question": "Nazwy sekcji powinny zawierać w sobie półpauzę.",
+        "question": "Nazwy sekcji powinny zawierać w sobie półpauzę i tradycyjne 'Jak będzie w'.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -207,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "Nie powinno się wynosić contentu z grup.",
+        "question": "Nic z jebawki, nic o jebawce poza jebawką.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -227,46 +227,46 @@ questions = [
     {
         "question": "Mogę sobie założyć sekcję masturbowania się w rytm Bogurodzicy puszczonej od tyłu i chuj innym do tego.",
         "effect": {
-            "econ": 0,
+            "econ": 3,
             "dipl": 0,
             "govt": 0,
             "scty": -10
         }
     },
     {
-        "question": "",
+        "question": "Termin 'jebawka' w dzisiejszych czasach odnosi się nie do głównej JBwA, a do sekcji bądź ich ogółu.",
         "effect": {
             "econ": 0,
-            "dipl": -1,
+            "dipl": 10,
             "govt": 0,
-            "scty": -10
+            "scty": 7
         }
     },
     {
         "question": "Admin ma zawsze rację.",
         "effect": {
-            "econ": -5,
+            "econ": 0,
             "dipl": 0,
             "govt": -15,
             "scty": 0
         }
     },
     {
-        "question": "",
+        "question": "Gówno mnie obchodzi co się kotłuje wewnątrz tych grupek. Dopóki mam quality content na tablicy, wszystko mi jedno",
         "effect": {
-            "econ": 0,
-            "dipl": -5,
+            "econ": 10,
+            "dipl": 0,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "",
+        "question": "Nie ma znaczenia na ilu sekcjach ktoś siedzi.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
+            "econ": 2,
+            "dipl": 5,
             "govt": 0,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -279,7 +279,7 @@ questions = [
         }
     },
     {
-        "question": "...a normiki mówią 'normiki'.",
+        "question": "Osobisty RiGCz stoi ponad podziałami. Powinno się dać szansę inteligentniejszym ludziom z gifów.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Nowym członkom powinno się przypominać o klasykach.",
+        "question": "Nowym członkom musimy stale przypominać o klasykach.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "Regulamin grupy jest podstawą porządku jak konstytucja.",
+        "question": "Dobrze napisany regulamin to konstytucja.",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -308,9 +308,9 @@ questions = [
     {
         "question": "Grupy są własnością adminów i mogą na nich robić co im się żywnie podoba.",
         "effect": {
-            "econ": 0,
+            "econ": 7,
             "dipl": 0,
-            "govt": 0,
+            "govt": -15,
             "scty": 0
         }
     },
@@ -324,12 +324,12 @@ questions = [
         }
     },
     {
-        "question": "Sekcje takie jak Filmawka i Jepiwka urosły do rangi profesjonalnych społeczności.",
+        "question": "Sekcje takie jak Filmawka i Jepiwka pokazały nam, że z grupek może wyjść coś przydatnego dla ludzkości.",
         "effect": {
-            "econ": -5,
-            "dipl": 10,
+            "econ": 10,
+            "dipl": 0,
             "govt": 0,
-            "scty": 2
+            "scty": 0
         }
     }
 ];
